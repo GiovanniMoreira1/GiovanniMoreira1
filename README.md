@@ -1,16 +1,21 @@
-## Hi there 👋
+## Giovanni
 
-<!--
-**GiovanniMoreira1/GiovanniMoreira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Olá, meu nome é Giovanni Antonio Moreira e tenho 19 anos.
+- 💬 Estou cursando Ciência da Computação na FEI, atualmente no 2º semestre.
+- 📖 Sou técnico em Logística formado pela ETEC.
 
-Here are some ideas to get you started:
+  [![Estatistícas de Giovanni Moreira](https://github-readme-stats.vercel.app/api?username=GiovanniMoreira1&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias 🖥️
+![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&labelColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=blue&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=orange&labelColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&logoColor=blue&labelColor=white&color=blue)
+
+
+
+
+
+
+
