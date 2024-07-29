@@ -1,7 +1,7 @@
 ## Giovanni Moreira
 ### Olá, bem-vindo 👋
 - ⚡ Me chamo Giovanni Antonio Moreira e tenho 19 anos.
-- 💬 Estou cursando Ciência da Computação na FEI, atualmente no 2º semestre.
+- 💬 Estou cursando Ciência da Computação na FEI, atualmente no 3º semestre.
 - 📖 Sou técnico em Logística formado pela ETEC.
 
   [![Estatistícas de Giovanni Moreira](https://github-readme-stats.vercel.app/api?username=GiovanniMoreira1&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
