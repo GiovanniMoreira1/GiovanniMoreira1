@@ -1,4 +1,4 @@
-## Giovanni Moreira
+## Giovanni Antonio Moreira
 ### Olá, bem-vindo 👋
 - ⚡ Me chamo Giovanni Antonio Moreira e tenho 19 anos.
 - 💬 Estou cursando Ciência da Computação na FEI, atualmente no 3º semestre.
