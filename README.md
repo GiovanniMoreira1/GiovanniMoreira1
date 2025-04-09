@@ -8,10 +8,13 @@
 
 ## Tecnologias 🖥️
 ![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&logoColor=blue&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=orange&labelColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&labelColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=blue&labelColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=orange&labelColor=white&color=orange)
-![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&logoColor=blue&labelColor=white&color=blue)
+
 
 
 
